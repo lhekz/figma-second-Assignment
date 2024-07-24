@@ -1,0 +1,470 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: content-box;
+}
+
+body {
+
+   
+        background: rgba(1, 1, 1, 0.16)  
+      
+
+
+/* About */
+
+
+
+}
+
+
+.boxa {
+    position: relative;
+
+
+    /* SERVICE SECTION */
+}
+
+.service-a,
+.service-b,
+.service-c>h3 {
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.82px;
+    letter-spacing: 0.1854em;
+
+}
+
+.service-a {
+    display: inline-block;
+    position: absolute;
+    left: 150px;
+    top: 70px;
+
+}
+
+
+
+
+.service-b {
+    display: inline-block;
+    position: absolute;
+    left: 820px;
+    top: 70px;
+
+}
+
+.service-c {
+    display: inline-block;
+    top: 250px;
+    position: absolute;
+    left: 450px;
+    
+
+}
+
+.service-a h5 {
+    font-family: Open Sans;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 19.07px;
+    height: 50px;
+    margin-top: 15px;
+    max-width: 500px;
+    text-align: justified;
+    letter-spacing: 0.1em;
+
+
+}
+
+.service-b h5 {
+    font-family: Open Sans;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 19.07px;
+    height: 50px;
+    margin-top: 15px;
+    max-width: 500px;
+      text-align: justified;
+      letter-spacing: 0.1em;
+  
+}
+
+.service-c h5 {
+    font-family: Open Sans;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 19.07px;
+    height: 50px;
+
+    top: 300px;
+
+    margin-top: 10px;
+
+    letter-spacing: 0.1em;
+    max-width: 500px;
+    text-align: justified;
+}
+
+.icon1 {
+    width: 61px;
+    left: 100px;
+
+    top: 50px;
+    position: absolute;
+}
+.icon2 {
+    width: 61px;
+    left: 770px;
+
+    top: 50px;
+    position: absolute;
+}
+.icon3 {
+    width: 61px;
+    left: 400px;
+
+    top:220px;
+    position: absolute;
+}
+
+
+
+.separator {
+    position: absolute;
+    top: 400px;
+    left: 540px;
+    margin-top: 30px;
+
+
+}
+
+/* SKILLS SECTION */
+
+.skilz h2 {
+    position: absolute;
+    top: 560px;
+    left: 500px;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 38.37px;
+    letter-spacing: 0.3554em;
+    text-align: center;
+    border: 8px solid #000000;
+    padding: 10px 40px;
+
+}
+
+/* Boxb-section */
+.boxb{
+    position: relative;
+   
+}
+.using > h4{
+position: absolute;
+
+font-family: Montserrat;
+font-size: 22px;
+font-weight: 700;
+line-height: 36.57px;
+
+text-align: left;
+top: 700px;
+left:350px;
+
+
+}
+
+
+.skill1, 
+.skill2, 
+.skill3, 
+.skill4 {
+
+    box-sizing:border-box;
+position:absolute ;
+
+gap: 100px;
+font-family: Montserrat;
+font-size: 10px;
+font-weight: 400;
+line-height: 29.26px;
+letter-spacing: 0.13538em;
+text-align: center;
+max-width: 100%;
+max-height: 100%;
+top: 800px;
+bottom: 30px;
+align-items: center;
+
+
+display: inline-block;
+}
+
+/*  first segment */
+.skill1 {
+        left: 350px ;
+  max-width: 56;
+  max-height: 100%;
+  
+    }
+    .skill2 {
+        left: 530px ;
+      
+    }
+    .skill3 {
+        left: 690px ;
+
+    }
+    .skill4 {
+        left: 840px ;
+        text-align: center;
+    }
+
+/* second segment */
+
+.skill5, 
+.skill6, 
+.skill7, 
+.skill8 {
+
+    box-sizing:border-box;
+position:absolute ;
+
+gap: 100px;
+font-family: Montserrat;
+font-size: 10px;
+font-weight: 400;
+line-height: 29.26px;
+letter-spacing: 0.13538em;
+text-align: center;
+max-width: 100%;
+max-height: 60vh;
+top: 1000px;
+align-items: center;
+
+
+gap: 100px;
+display: inline-block;
+}
+.skill5 {
+    left: 350px ;
+ 
+
+
+}
+.skill6 {
+    left: 490px ;
+}
+.skill7 {
+    left: 710px ;
+}
+.skill8 {
+    left: 890px ;
+}
+
+/* img section */
+    
+.skill1 img, .skill2 img    {
+    max-width: 70px;
+    max-height:fit-content
+    
+}
+
+.skill3 img{
+max-height: 82px;
+}
+.skill4 img{
+    max-height: 80px;
+ 
+
+}
+.skill5 img{
+    max-width: 77px;
+    max-height: 72vh;
+    
+}
+.skill6 img, .skill7 img   {
+    max-width: 70px;
+    max-height:max-content
+}
+.skill8 img{
+    max-height: 75px;
+}
+
+.skill1 h2,.skill2 h2,.skill3 h2,.skill4 h2 ,.skill5 h2 ,.skill6 h2,.skill7 h2 ,.skill8 h2{
+    font-family: Montserrat;
+font-size: 22px;
+font-weight: 400;
+line-height: 29.26px;
+letter-spacing: 0.1354em;
+text-align: center;
+color: rgba(0, 0, 0, 1);
+
+} 
+
+
+
+/* responsiveness */
+/* mobile view */
+
+@media screen and (max-width: 600px){
+
+    .service-a  {
+        
+        font-size: 17px;
+        line-height: 17.7px;
+        left: 100px;
+        Line-height:20.72px;
+        align-items:center;
+        margin-bottom: 24px;
+        max-width: 580px;
+    }
+   
+      .service-a h5,.service-b h5, .service-c h5 {
+        
+      align-items: center;
+        font-weight: 300;
+        line-height: 17.7px;
+        text-align:justify;
+        max-width:  580px
+     
+        
+    
+    }
+
+
+    .service-b {
+      
+        font-size: 20px;
+        left: 100px;
+        top: 200px;
+        Line-height:20.72px;
+        align-items:center;
+        margin-bottom: 24px;
+       
+       
+}
+    .service-c {
+      
+        font-size: 17px;
+        left: 50px;
+        top: 325px;
+        Line-height:20.72px;
+        align-items:center;
+        margin-bottom: 24px;
+        margin-left: 50px;
+       
+}
+
+.separator {
+    
+    top: 450px;
+    left: 150px;
+    margin-top: 30px;
+
+
+}
+
+.skilz h2 {
+
+    top: 560px;
+    left: 150px;
+    border: 8px solid #000000;
+    padding: 10px 40px;
+
+font-size: 14px;
+font-weight: 700;
+line-height: 17.91px;
+letter-spacing: 0.4354em;
+text-align: center;
+
+
+}
+
+
+
+
+.using > h4{
+    
+
+    top: 700px;
+    left:120px;
+    
+
+
+font-size: 30px;
+font-weight: 700;
+line-height: 36.57px;
+letter-spacing: 0.1854em;
+text-align: left;
+
+    
+    }
+
+
+    /*  first segment */
+.skill1 {
+    top:780px;
+    left: 180px ;
+
+
+}
+.skill2 {
+    top:950px;
+    left: 190px ;
+}
+.skill3 {
+    left: 170px ;
+    top:1100px;
+}
+.skill4 {
+    left: 140px ;
+
+    top:1250px;
+}
+.skill5 {
+    left: 180px ;
+
+    top:1400px;
+}
+.skill6 {
+    left: 140px ;
+   
+    top:1550px;
+}
+.skill7 {
+    left: 190px ;
+    text-align: center;
+    top:1700px;
+}
+.skill8 {
+    left: 190px ;
+    text-align: center;
+    top:1850px;
+}
+
+.icon1 {
+  
+    left: 50px;
+
+    top: 50px;
+    position: absolute;}
+.icon2 {
+  
+    left: 50px;
+
+    top: 170px;
+    position: absolute;
+}
+.icon3 {
+    
+    left: 50px;
+
+    top:298px;
+    position: absolute;
+}
+
+}
